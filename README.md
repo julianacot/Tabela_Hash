@@ -67,3 +67,11 @@ No terminal, dentro da pasta do projeto, execute:
 
 ```bash
 gcc main.c -o programa
+
+```
+---
+## Equipe
+
+- João Vitor Cabral
+- Juliana Tenório
+- Miguel Reis
